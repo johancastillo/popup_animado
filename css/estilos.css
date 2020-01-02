@@ -5,9 +5,21 @@
 }
 
 body {
-	background: #fff;
+	background: #DDD;
 	font-family: 'Open Sans', sans-serif;
 }
+
+main{
+	background: #fff;
+	padding: 20px;
+	border-radius: 5px;
+}
+
+.content-box{text-align: justify !important;}
+
+.text-uppercase{text-transform: uppercase !important;}
+
+.text-center{text-align: center !important;}
 
 .contenedor {
 	width: 90%;
